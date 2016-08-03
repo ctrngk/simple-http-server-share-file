@@ -1,9 +1,11 @@
 # simple-http-server-share-file
 web.py
 
-## 
+## configuration
 put files into satic folder
+
 testindex.html is a template file
+
 rename the file name in static line in testindex.html
 
 ## usage:
