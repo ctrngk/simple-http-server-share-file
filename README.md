@@ -9,15 +9,18 @@ testindex.html is a template file
 rename the file name in static line in testindex.html
 
 ## usage:
+```sh
+pip install web.py
+```
 
 ```sh
-python webtest.py
+python testweb.py
 ```
 (default port 8080)
 
 
 ```sh
-python webetst.py 1234
+python testweb.py 1234
 ```
 (port 1234)
 
